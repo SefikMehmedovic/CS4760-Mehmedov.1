@@ -1,0 +1,12 @@
+1. obsereved?
+2. process ID:26934
+   process ID:26935
+   process ID:26936
+   process ID:26937 
+
+3. 30 processes
+4. 30 process but it takes 10 seconds for them to run/ print to screen
+5.
+6. It doesn't, program runs normally. 
+7. The only difference i notice is the numbering, with wait it prints 'i' with highest number and down as before it printing i as incrementing.
+8.It prints the process ID to screen with the input right after.

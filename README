@@ -1,0 +1,20 @@
+Sefik Mehmedovic 
+Project 1 
+CS 4760 - OS
+
+To run the project you first have to compile it. 
+Type 'make' into the console and make sure you are in the correct directory.
+you will get a ass1 executable. ./ass1 to run it with no arguments
+The 3 arguments ass1 takes are:
+-h for help and it prints to screen the other arguments
+-p for testing out perror
+-n and to take in a variable x for later 
+
+to clean to the file type 'make clean' it will remove the ass1 exe from the directory
+
+
+// Notes:
+Parts of this project were kind of confusing. Part 5 was the most confusing because some questions were 
+not questions and just statments. Which made me think what was wanted of me to do. Also to me not a lot of changed
+in some of the test runs.
+
